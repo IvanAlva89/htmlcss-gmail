@@ -1,0 +1,70 @@
+
+body {
+  background-image: url('../img/background-image.jpg');
+  color: #fff;
+  margin: 0;
+}
+
+.container{
+  width: 1000px;
+  margin: auto;
+  padding: 20px;
+}
+
+/* Header */
+
+#logo {
+  width: 100px;
+  vertical-align: middle;
+}
+
+#logo-text {
+  font-size: 25px;
+}
+
+/* Nav */
+
+button[type="button"] {
+  border-radius: 5px;
+}
+
+#unread {
+  font-size: 25px;
+}
+
+#number {
+  background: #f3892d;
+  border-radius: 50px;
+  padding: 10px;
+}
+
+/* Section */
+
+.row {
+  color: #000000;
+  padding: 3px;
+}
+
+.read {
+  background: #d3cdcd;
+  border: 1px solid black;
+}
+
+.unread {
+  background: #fff;
+  border: 1px solid black;
+}
+
+.text-row {
+  color:#7a7676;
+}
+
+/* Footer */
+
+footer {
+  text-align: center;
+}
+
+.final-credits {
+  font-size: 25px;
+}
